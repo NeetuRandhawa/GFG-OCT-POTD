@@ -27,7 +27,8 @@ class Solution {
         }
         
         return sum;
+
     }
 };
         
-        return sum;
+        
